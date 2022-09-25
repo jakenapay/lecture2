@@ -17,7 +17,7 @@ mat = float(input("Enter grade in math: "))
 pro = float(input("Enter grade in programming: "))
 
 totalSub = 4
-ave = (eng + sci + mat + pro) / 4
+ave = (eng + sci + mat + pro) / totalSub
 print(f"Your average: {ave}")
 
 if ave <= 74:
