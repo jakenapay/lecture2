@@ -25,4 +25,4 @@
 
 # LIST
 foods = ["Banana", "Spaghetti", "Burger", "Pie"]
-print(foods[0])
+print(foods)
