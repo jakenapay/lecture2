@@ -1,6 +1,6 @@
 # EXAMPLE OF FUNCTIONS
-# def square(x):
-#     return x * x
+def square(x):
+    return x * x
 
 # SIMPLE CELSIUS TO FAHRENHEIT CALCULATOR
 # def fahrenheit(x):
