@@ -12,9 +12,11 @@ def square(x):
 # --------------
 
 # SIMPLE MULTIPLICATION TABLE GENERATOR
-# def multiply(x):
-#     for i in range(1, 11):
-#         print(f"{x} x {i} = {x*i}")
+
+
+def multiply(x):
+    for i in range(1, 11):
+        print(f"{x} x {i} = {x*i}")
 
 # x = int(input("Enter given number: "))
 # multiply(x)
