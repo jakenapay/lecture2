@@ -5,8 +5,8 @@ people = [
 ]
 
 
-def f(person):
-    return person["house"]
+# def f(person):
+#     return person["house"]
 
 
 people.sort(key=lambda person: person["name"])
